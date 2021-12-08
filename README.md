@@ -1,4 +1,4 @@
-# OzdilekteyimAppiumProject
+# Ozdilekteyim Appium Project
 
 ## The aim of this application is to test a scenario on Ozdilekteyim android app using appium otomation tool.
 
