@@ -1,0 +1,78 @@
+Created by testinium on 7.12.2021
+
+This is a concept file with following syntax for each concept.
+# Start Ozdilekteyim app and verify the app start
+* Waited "7" seconds.
+* Checking if application is running. By checking "com.ozdilek.ozdilekteyim:id/tv_startShoppingStore" and "ALIŞVERİŞE BAŞLA".
+* Waited "5" seconds.
+
+# Click start button and verify button click
+* "com.ozdilek.ozdilekteyim:id/tv_startShoppingStore" start shopping button has been clicked.
+* Waited "5" seconds.
+* Checking homepage by "com.ozdilek.ozdilekteyim:id/homeTabContainer"
+* Waited "5" seconds.
+
+# Open categories page and verify the page
+* "com.ozdilek.ozdilekteyim:id/nav_categories" categories button has been clicked.
+* Waited "5" seconds.
+* Checking categories page by "com.ozdilek.ozdilekteyim:id/categoryTabContainer"
+* Waited "5" seconds.
+
+# Click woman option in the menu and pick trousers category
+* "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout[1]/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.LinearLayout/androidx.viewpager.widget.ViewPager/androidx.recyclerview.widget.RecyclerView/android.widget.FrameLayout/android.widget.RelativeLayout/androidx.recyclerview.widget.RecyclerView/android.widget.RelativeLayout[2]" option has been clicked.
+* Waited "5" seconds.
+* "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout[1]/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.FrameLayout/androidx.recyclerview.widget.RecyclerView/android.widget.RelativeLayout[4]/android.widget.TextView" category has been clicked.
+* Waited "5" seconds.
+
+# Swipe down to bottm of the page twice and pick a product randomly
+* Swipe down to end the page.
+* Waited "5" seconds.
+* Swipe down to end the page.
+* Waited "5" seconds.
+* Randomly pick a product.
+* Waited "5" seconds.
+
+# Verify product details page and click favourites button
+* Checking product page by "com.ozdilek.ozdilekteyim:id/relLayAddCartBtn"
+* Waited "5" seconds.
+* "com.ozdilek.ozdilekteyim:id/relLayFav" button has been clicked.
+* Waited "5" seconds.
+
+# Verify login page
+* Checking login page by "com.ozdilek.ozdilekteyim:id/btnLogin"
+* Waited "5" seconds.
+
+# Send text information to username field
+* "testinium123@hotmail.com" email address has been sent to "com.ozdilek.ozdilekteyim:id/etEposta" field.
+* Waited "5" seconds.
+
+# Send password information to password field
+* "12345" password has been sent to "com.ozdilek.ozdilekteyim:id/etPassword" field.
+* Waited "5" seconds.
+
+# Click back button twice
+* "com.ozdilek.ozdilekteyim:id/ivBack" backbutton has been clicked successfully.
+* Waited "2" seconds.
+* "com.ozdilek.ozdilekteyim:id/ivBack" backbutton has been clicked successfully.
+* Waited "5" seconds.
+
+# Pick a product randomly and add picked product to basket
+* Randomly pick a product.
+* Waited "5" seconds.
+* "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.ScrollView/android.view.ViewGroup/androidx.recyclerview.widget.RecyclerView[2]/android.widget.RelativeLayout[2]" size of the product has been picked.
+* Waited "5" seconds.
+* "com.ozdilek.ozdilekteyim:id/cardAddToCart" add to basket has been clicked.
+* Waited "5" seconds.
+
+
+
+
+
+
+
+
+
+
+
+
+
