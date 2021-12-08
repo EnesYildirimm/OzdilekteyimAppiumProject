@@ -2,7 +2,7 @@
 
 ## The aim of this application is to test a scenario on Ozdilekteyim android app using appium otomation tool.
 
-** Open Ozdilekteyim App and Follow The Given Steps Below **
+**Open Ozdilekteyim App and Follow The Given Steps Below**
 1) Start Ozdilekteyim app and verify the app start.
 2) Click start button and verify button click.
 3) Open categories page and verify the page.
