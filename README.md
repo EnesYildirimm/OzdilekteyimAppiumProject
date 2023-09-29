@@ -1,6 +1,6 @@
 # Ozdilekteyim Appium Project
 
-## The aim of this application is to test a scenario on Ozdilekteyim android app using appium otomation tool.
+## The aim of this application is to test a scenario on Ozdilekteyim android app using appium automation tool.
 
 **Open Ozdilekteyim App and Follow The Given Steps Below**
 1) Start Ozdilekteyim app and verify the app start.
